@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Essam
 ==================================================================================================================================
 
-Management Information Systems Student
+Major: Management Information Systems
 ----------------------------
-
-Iam a Sophomore Management Information Systems student with a strong interest in business analysis and data-driven decision making. Building experience in BI development and data analysis, including collecting, cleaning, and modeling data to uncover insights. Skilled in creating efficient data workflows and visualizations to support better decision-making across different domains.
+I focus on bridging the gap between raw data and actionable business strategy. I specialize in designing and implementing robust ETL/ELT pipelines, ensuring data integrity from ingestion to visualization. By building efficient data workflows and scalable architectures, I enable organizations to leverage high-quality data for informed, data-driven decision-making.
 
 * ✉️  Reach me at [abdullahramadan661@gmail.com](mailto:abdullahramadan661@gmail.com)  
 * 🚀  Check out my [Thanawya Amma Dashboard](https://github.com/Abdullah-Essam21/Egyptian-Thanawya-Amma-2024-Dashboard)  
-* 🧠  Currently learning MS SQL & advanced DAX  
+* 🧠  Currently learning PySpark & advanced SQL
 
 
 ### Skills
